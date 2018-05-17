@@ -1,2 +1,2 @@
 # Yayoi
-Yayoi is Mastdon Wrapper API for CSharp.
+Yayoi is Mastodon Wrapper API for CSharp.
