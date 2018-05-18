@@ -5,7 +5,7 @@ using System.Text;
 namespace YayoiSDK.Helpers
 {
 	public class Helper
-    {
+	{
 		public Helper() { }
 	}
 }

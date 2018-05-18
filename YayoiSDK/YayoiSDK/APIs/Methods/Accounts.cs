@@ -4,8 +4,8 @@ using System.Text;
 
 namespace YayoiSDK.APIs.Methods
 {
-    public class Accounts
-    {
+	public class Accounts
+	{
 		public Accounts() { }
 	}
 }

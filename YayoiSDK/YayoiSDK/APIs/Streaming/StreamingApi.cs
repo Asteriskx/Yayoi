@@ -4,8 +4,8 @@ using System.Text;
 
 namespace YayoiSDK.APIs.Streaming
 {
-    public class StreamingApi
-    {
+	public class StreamingApi
+	{
 		public StreamingApi() { }
-    }
+	}
 }

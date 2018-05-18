@@ -5,7 +5,7 @@ using System.Text;
 namespace YayoiSDK.APIs.Entities
 {
 	public class PushSubscription
-    {
+	{
 		public PushSubscription() { }
 	}
 }

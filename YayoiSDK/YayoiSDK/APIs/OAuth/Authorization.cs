@@ -4,8 +4,8 @@ using System.Text;
 
 namespace YayoiSDK.APIs.OAuth
 {
-    public class Authorization
-    {
+	public class Authorization
+	{
 		public Authorization() { }
 	}
 }
